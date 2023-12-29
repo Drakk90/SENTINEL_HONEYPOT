@@ -16,7 +16,7 @@
 </p>
 
 
-# SENTINEL HONEYPOT
+<h1 align="center">Steps to Follow</h1>
  - Main idea is the deploy of a HoneyPot with Visualization in Azure. 
  - Deploy a virtual machine in Azure leaving it unprotected on purpose to be seen by any attacker.
  - Run PowerShell ISE Script to be used inside the virtual machine to detect attacks.
