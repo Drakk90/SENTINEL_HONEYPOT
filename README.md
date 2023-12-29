@@ -16,13 +16,13 @@
 </p>
 
 
-# SENTINEL_HONEYPOT
- - Creation of a HoneyPot with Visualization in Azure. 
- - Creation of a virtual machine in Azure leaving it unprotected on purpose to be seen by any attacker.
- - Creation of the Script to be used inside the virtual machine to detect attacks.
- - Creation of the Log Analytics WorkSpace where we will tell it which is the machine we want to extract the data and where the logs are located.
- - Creation of the Query to be used in Sentinel within the Analytics Workspace.
- - Creation of the SIEM within Azure Sentinel.
+# SENTINEL HONEYPOT
+ - Main idea is the deploy of a HoneyPot with Visualization in Azure. 
+ - Deploy a virtual machine in Azure leaving it unprotected on purpose to be seen by any attacker.
+ - Run PowerShell ISE Script to be used inside the virtual machine to detect attacks.
+ - Log Analytics WorkSpace where we will tell it which is the machine we want to extract the data and where the logs are located.
+ - Run the query to be used on Sentinel within the Analytics Workspace.
+ - Deploy SIEM within Azure Sentinel.
  - Review of the attacks received in Azure.
 
 
