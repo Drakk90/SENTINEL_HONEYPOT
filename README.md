@@ -9,7 +9,13 @@
 
 
 
+## [!] Disclaimer
+***This manual is designed to help creating your first project on Azure Sentinel and create your virtual Machine, please remember delete all the created instances on Azure if you want to avoid problems with your monthly billing***
 
+### This repository is open source to help others. So if you wish to copy, consider giving credit!
+
+## Credits:
+Some base codes and templates are from [htr-tech](https://github.com/joshmadakor1).
 
 ## [~] Find Me on :
 
