@@ -1,11 +1,12 @@
 # SENTINEL_HONEYPOT
-#Creación de un HoneyPot con Visualización en Azure.
-#1.- Creación de una máquina virtual en Azure dejandola desprotegida a proposito para ser vista por cualquier atacante.
-#2.- Creación del Script que se utilizará dentro de la máquina virtual para la detección de los ataques. 
-#3.-Creación del Log Analytics WorkSpace donde le diremos cual es la máquina que deseamos extraer la data y donde se encuentran ubicados los logs.
-#4.- Creación del Query que se usará en Sentinel dentro Analytics Workspace.
-#5.- Creación del SIEM dentro de Azure Sentinel.
-#6.- Revisión de los ataques que se reciben en Azure.
+ - Creation of a HoneyPot with Visualization in Azure. 
+ - Creation of a virtual machine in Azure leaving it unprotected on purpose to be seen by any attacker.
+ - Creation of the Script to be used inside the virtual machine to detect attacks.
+ - Creation of the Log Analytics WorkSpace where we will tell it which is the machine we want to extract the data and where the logs are located.
+ - Creation of the Query to be used in Sentinel within the Analytics Workspace.
+ - Creation of the SIEM within Azure Sentinel.
+ - Review of the attacks received in Azure.
+
 
 
 
