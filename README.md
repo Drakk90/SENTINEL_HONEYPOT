@@ -17,4 +17,4 @@
 
 - [![Gmail](https://img.shields.io/badge/Gmail-Drakk90-green?style=for-the-badge&logo=gmail)](mailto:erecinos@gmail.com)
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Drakk90-blue?style=for-the-badge&logo=facebook)](https://www.linkedin.com/in/eduardo-recinos)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Drakk90-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-recinos)
