@@ -1,7 +1,7 @@
-<h1 align="center">Sentinel_HoneyPot</h1>
+<h1 align="center">Sentinel HoneyPot</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1.7-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Drakk90/pyphisher?style=for-the-badge&color=orange">
   <img src="https://img.shields.io/github/forks/Drakk90/pyphisher?color=cyan&style=for-the-badge&color=purple">
   <img src="https://img.shields.io/github/watchers/Drakk90/pyphisher?color=cyan&style=for-the-badge&color=purple">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Author-Drakk90-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Guatemala-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20PowerShell?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20in-PowerShell?style=flat-square">
 </p>
 
 
