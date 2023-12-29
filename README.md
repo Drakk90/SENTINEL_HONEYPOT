@@ -6,3 +6,15 @@
 #4.- Creación del Query que se usará en Sentinel dentro Analytics Workspace.
 #5.- Creación del SIEM dentro de Azure Sentinel.
 #6.- Revisión de los ataques que se reciben en Azure.
+
+
+
+
+
+## [~] Find Me on :
+
+- [![Github](https://img.shields.io/badge/Github-Drakk90-purple?style=for-the-badge&logo=github)](https://github.com/Drakk90)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-Drakk90-green?style=for-the-badge&logo=gmail)](mailto:erecinos@gmail.com)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Drakk90-blue?style=for-the-badge&logo=facebook)](https://www.linkedin.com/in/eduardo-recinos)
