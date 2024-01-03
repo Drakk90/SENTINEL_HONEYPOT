@@ -37,7 +37,9 @@ Go to https://app.ipgeolocation.io/login
 
 ![IPGEOLOCATION](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image01.jpg)
 
-If you do not have a Microsoft Azure account go to the following address. https://portal.azure.com/
+ - If you do not have a Microsoft Azure account go to the following address. https://portal.azure.com/
+ - Microsoft will welcome you with an initial credit of $200.00, which is valid for 30 days (Friendly reminder, always remember to delete your labs).
+
 
 
 ## [!] Disclaimer
