@@ -52,6 +52,9 @@ Leave the default values until you reach the Networking section.
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image04.jpg)
 
+Once in the networking section, click on the NIC network security group section and select the Advanced option. Click on the create new option.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image05.jpg)
 
 
 
