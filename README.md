@@ -64,6 +64,15 @@ It is time to create an inbound rule, for this purpose, in the Destination port 
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image07.jpg)
 
+This is how our newly created rule should look like.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image08.jpg)
+
+Finally we will create our virtual machine and we can wait or continue with the next section while it is up.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image09.jpg)
+
+
 
 
 ## [!] Disclaimer
