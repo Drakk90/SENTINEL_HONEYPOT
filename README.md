@@ -72,6 +72,17 @@ Finally we will create our virtual machine and we can wait or continue with the 
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image09.jpg)
 
+As mentioned above, we can go step by step or we can go ahead by creating our Log Analytics Workspaces. Once inside we click on the Create button.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image10.jpg)
+
+We select our Resource group, name our instance and select the same region we have been working in for our example case West US 3.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image11.jpg)
+
+Here we go, click on the create option and wait.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image12.jpg)
 
 
 
