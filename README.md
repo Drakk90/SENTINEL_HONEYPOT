@@ -48,6 +48,12 @@ For this exercise remember to set a very strong password with a strong complexit
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image03.jpg)
 
+Leave the default values until you reach the Networking section.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image04.jpg)
+
+
+
 
 
 ## [!] Disclaimer
