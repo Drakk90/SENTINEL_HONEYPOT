@@ -44,6 +44,9 @@ Follow the instructions shown in the following images.
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image02.jpg)
 
+For this exercise remember to set a very strong password with a strong complexity.
+
+
 
 
 ## [!] Disclaimer
