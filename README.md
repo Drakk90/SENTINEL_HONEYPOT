@@ -31,6 +31,11 @@
 ![Sentinel](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/Sentinel.svg)
 
 
+## [!] Let's go...
+As a first step we will create an account within ipgeolocation. Once created, we access the dashboard where the API Keys section will appear, which is what we will copy later to our script inside the virtual machine in Azure.
+Go to https://app.ipgeolocation.io/login
+
+![IPGEOLOCATION](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image01.jpg)
 
 
 ## [!] Disclaimer
