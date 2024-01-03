@@ -56,6 +56,9 @@ Once in the networking section, click on the NIC network security group section 
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image05.jpg)
 
+In the Create a Network Security Group section, enter the name of the group as you want it. In the Incoming Rules section delete the incoming rule you will see there.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image06.jpg)
 
 
 
