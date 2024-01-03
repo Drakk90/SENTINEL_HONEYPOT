@@ -86,6 +86,8 @@ Here we go, click on the create option and wait.
 
 
 
+
+
 ## [!] Disclaimer
 ***This manual is designed to help creating your first project on Azure Sentinel and create your virtual Machine, please remember delete all the created instances on Azure if you want to avoid problems with your monthly billing.***
 
