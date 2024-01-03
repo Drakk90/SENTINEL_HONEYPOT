@@ -40,7 +40,7 @@ Go to https://app.ipgeolocation.io/login
  - If you do not have a Microsoft Azure account go to the following address. https://portal.azure.com/
  - Microsoft will welcome you with an initial credit of $200.00, which is valid for 30 days (Friendly reminder, always remember to delete your labs).
 
-
+Follow the instructions shown in the following images.
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image02.jpg)
 
