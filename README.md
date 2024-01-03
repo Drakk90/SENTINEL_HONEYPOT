@@ -37,6 +37,8 @@ Go to https://app.ipgeolocation.io/login
 
 ![IPGEOLOCATION](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image01.jpg)
 
+If you do not have a Microsoft Azure account go to the following address. https://portal.azure.com/
+
 
 ## [!] Disclaimer
 ***This manual is designed to help creating your first project on Azure Sentinel and create your virtual Machine, please remember delete all the created instances on Azure if you want to avoid problems with your monthly billing.***
