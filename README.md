@@ -84,7 +84,25 @@ Here we go, click on the create option and wait.
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image12.jpg)
 
+We take our first steps through Sentinel to start working the environment.
 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image13.jpg)
+
+We are heading to Defender Plans. And Check proceed to give check on Servers if is off.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image14.jpg)
+
+Then we go to Data Collections and click on the option All Events
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image15.jpg)
+
+Look for the Virtual Machines (deprecated) option and double click on it.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image16.jpg)
+
+We connect our machine.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image17.jpg)
 
 
 
