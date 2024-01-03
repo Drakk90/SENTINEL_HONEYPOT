@@ -60,6 +60,10 @@ In the Create a Network Security Group section, enter the name of the group as y
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image06.jpg)
 
+It is time to create an inbound rule, for this purpose, in the Destination port ranges section we will place asterisk (*). In the Priority section we will put 1000 and in the Name section we will give the name to the rule as we want it to appear.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image07.jpg)
+
 
 
 ## [!] Disclaimer
