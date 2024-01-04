@@ -116,10 +116,49 @@ Go to Windows Firewall and turn everything off.
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image20.jpg)
 
-Download the ipgeo_ps.ps1 file from the following address.  https://github.com/Drakk90/SENTINEL_HONEYPOT/blob/main/src/ipgeo_ps.ps1
+Download the ipgeo_ps.ps1 file from the following address.  
+ - https://github.com/Drakk90/SENTINEL_HONEYPOT/blob/main/src/ipgeo_ps.ps1
+ - Run Power Shell ISE as Administrator, open the newly downloaded file, modify the file by inserting your API key created earlier. Click on the RUN option and watch the magic.
 
-![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image20.jpg)
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image21.jpg)
 
+As a last step proceed to run Command Prompt on your local machine and verify that you have PING.
+ 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image22.jpg)
+
+By this time your Log Analytics is already created, go to the Tables section.
+ 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image23.jpg)
+
+Click on the Create option, select the New Custom log (MMA-Based) option.
+ 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image24.jpg)
+
+Enter the name of the log, which is being captured in the virtual machine, the name of the file can be found in the file with extension *.ps1
+ 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image25.jpg)
+
+Select the Operating System and enter the path to the file and the file name, please remember this is Case Sensitive so enter it exactly the same.
+ 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image26.jpg)
+
+Give a name to the custom log.
+ 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image27.jpg)
+
+For this proof of concept we are capturing all events of type 4625, if you go to your Event Viewer inside your virtual machine you will be able to check this.
+ 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image28.jpg)
+
+Wait about 10 minutes while your newly created log is displayed in Analytics and run the log you just created.
+ 
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image29.jpg)
+
+Some time ago there was the option to make extracts from a log, but that option disappeared, so now we proceed to do it through a query. You can find the query at the following address.
+ - https://github.com/Drakk90/SENTINEL_HONEYPOT/blob/main/src/IPGeo_Sentinel.sql
+ - Run the query on Analytics.
+    
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image30.jpg)
 
 
 
