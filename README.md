@@ -160,6 +160,41 @@ Some time ago there was the option to make extracts from a log, but that option 
     
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image30.jpg)
 
+We go to Microsoft Sentinel and click on the Workbooks section.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image31.jpg)
+
+We edited our Workbook.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image32.jpg)
+
+Remove all elements of the workbook.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image33.jpg)
+
+We paste our previous query.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image34.jpg)
+
+We enter Map Settings and modify some of our elements taking as reference the image shown below.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image35.jpg)
+
+We continue with our settings.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image36.jpg)
+
+Save as.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image37.jpg)
+
+Set the Autorefresh every 5 minutes.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image38.jpg)
+
+We wait a few hours and the results will be as shown below.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image39.jpg)
 
 
 ## [!] Disclaimer
