@@ -104,6 +104,23 @@ We connect our machine.
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image17.jpg)
 
+It is time to connect to our virtual machine, if you do not know the public IP used, go to the virtual machines section where you can get it.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image18.jpg)
+
+When you log in for the first time, turn off all privacy settings that come with Windows by default. In other words click NO for each of the features and then click Accept.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image19.jpg)
+
+Go to Windows Firewall and turn everything off.
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image20.jpg)
+
+Download the ipgeo_ps.ps1 file from the following address. 
+
+![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image20.jpg)
+
+
 
 
 ## [!] Disclaimer
