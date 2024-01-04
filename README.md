@@ -116,7 +116,7 @@ Go to Windows Firewall and turn everything off.
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image20.jpg)
 
-Download the ipgeo_ps.ps1 file from the following address. 
+Download the ipgeo_ps.ps1 file from the following address.  https://github.com/Drakk90/SENTINEL_HONEYPOT/blob/main/src/ipgeo_ps.ps1
 
 ![VIRTUALMACHINE](https://raw.githubusercontent.com/Drakk90/SENTINEL_HONEYPOT/main/images/image20.jpg)
 
